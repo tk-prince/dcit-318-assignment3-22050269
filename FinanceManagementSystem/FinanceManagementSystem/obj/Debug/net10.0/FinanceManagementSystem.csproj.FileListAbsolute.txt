@@ -1,0 +1,15 @@
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.exe
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.deps.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.sourcelink.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\refint\FinanceManagementSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net10.0\ref\FinanceManagementSystem.dll

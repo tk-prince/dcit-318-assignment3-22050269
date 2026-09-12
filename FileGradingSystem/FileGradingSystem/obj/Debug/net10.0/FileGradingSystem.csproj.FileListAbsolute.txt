@@ -1,0 +1,15 @@
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\bin\Debug\net10.0\FileGradingSystem.exe
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\bin\Debug\net10.0\FileGradingSystem.deps.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\bin\Debug\net10.0\FileGradingSystem.runtimeconfig.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\bin\Debug\net10.0\FileGradingSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\bin\Debug\net10.0\FileGradingSystem.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.sourcelink.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\refint\FileGradingSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\FileGradingSystem.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\FileGradingSystem\FileGradingSystem\obj\Debug\net10.0\ref\FileGradingSystem.dll

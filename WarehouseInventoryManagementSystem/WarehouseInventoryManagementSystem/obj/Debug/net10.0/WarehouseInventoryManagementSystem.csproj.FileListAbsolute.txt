@@ -1,0 +1,15 @@
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\bin\Debug\net10.0\WarehouseInventoryManagementSystem.exe
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\bin\Debug\net10.0\WarehouseInventoryManagementSystem.deps.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\bin\Debug\net10.0\WarehouseInventoryManagementSystem.runtimeconfig.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\bin\Debug\net10.0\WarehouseInventoryManagementSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\bin\Debug\net10.0\WarehouseInventoryManagementSystem.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.sourcelink.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\refint\WarehouseInventoryManagementSystem.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\WarehouseInventoryManagementSystem.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\WarehouseInventoryManagementSystem\WarehouseInventoryManagementSystem\obj\Debug\net10.0\ref\WarehouseInventoryManagementSystem.dll

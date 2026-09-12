@@ -1,0 +1,15 @@
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\bin\Debug\net10.0\InventoryRecords.exe
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\bin\Debug\net10.0\InventoryRecords.deps.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\bin\Debug\net10.0\InventoryRecords.runtimeconfig.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\bin\Debug\net10.0\InventoryRecords.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\bin\Debug\net10.0\InventoryRecords.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.sourcelink.json
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\refint\InventoryRecords.dll
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.pdb
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\InventoryRecords.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit-318-assignment3-22050269\InventoryRecords\InventoryRecords\obj\Debug\net10.0\ref\InventoryRecords.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\princ\\source\\repos\\dcit318-assignment2-22050269\\HealthcareSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34ED74-0E99-44E9-9DE9-889092041CAB}|HealthcareSystem\\HealthcareSystem.csproj|c:\\users\\princ\\source\\repos\\dcit318-assignment2-22050269\\healthcaresystem\\healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F34ED74-0E99-44E9-9DE9-889092041CAB}|HealthcareSystem\\HealthcareSystem.csproj|solutionrelative:healthcaresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\source\\repos\\dcit318-assignment2-22050269\\HealthcareSystem\\HealthcareSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\princ\\source\\repos\\dcit318-assignment2-22050269\\HealthcareSystem\\HealthcareSystem\\Program.cs",
+              "RelativeToolTip": "HealthcareSystem\\Program.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAABEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T17:36:03.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

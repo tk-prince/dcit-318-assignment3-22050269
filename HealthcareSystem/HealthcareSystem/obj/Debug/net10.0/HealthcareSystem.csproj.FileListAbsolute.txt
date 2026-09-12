@@ -1,0 +1,15 @@
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.exe
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.deps.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.runtimeconfig.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.sourcelink.json
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\refint\HealthcareSystem.dll
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\princ\source\repos\dcit318-assignment2-22050269\HealthcareSystem\HealthcareSystem\obj\Debug\net10.0\ref\HealthcareSystem.dll
